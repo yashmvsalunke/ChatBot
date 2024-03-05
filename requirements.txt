@@ -1,0 +1,13 @@
+langchain
+langchain-community
+
+sentence-transformers
+
+llama-cpp-python
+
+faiss-cpu
+streamlit
+streamlit_chat
+
+pypdf
+tqdm
